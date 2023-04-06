@@ -4,9 +4,10 @@
 This is a fork of DFScript to add Web Requests.
 
 Done:
+- Get Requests
 
 Not Pushed:
-- Get Requests
+- 
 
 Wishlist:
 - Post Requests
