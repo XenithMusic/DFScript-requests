@@ -1,16 +1,5 @@
 [![Build](https://github.com/DFOnline/DFScript/actions/workflows/build.yml/badge.svg)
 ](https://github.com/DFOnline/DFScript/actions/workflows/build.yml)
-# Fork
-This is a fork of DFScript to add Web Requests.
-
-Done:
-- Get Requests
-
-Not Pushed:
-
-Wishlist:
-- Post Requests
-
 # DFScript
 DFScript is a mod created for DiamondFire to allow scripting on the client. This mod is a separation and improvement from the shutdown mod [CodeUtilities](https://github.com/CodeUtilities/CodeUtilities).
 
