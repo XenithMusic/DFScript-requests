@@ -140,7 +140,7 @@ public enum ScriptActionType {
         ))),
     
     GET_REQUEST(builder -> builder.name("Get Webrequest")
-            .description("Makes a get request to the internet.")
+            .description("Makes a get request from the internet.")
             .icon(Items.GRASS_BLOCK)
             .arg("Result", ScriptActionArgumentType.VARIABLE)
             .arg("Url", ScriptActionArgumentType.TEXT)
